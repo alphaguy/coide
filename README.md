@@ -1,2 +1,4 @@
 # coide
 CooCox CoIDE example projects
+This repository is dedicated to examples which use ST Microelectronics initialization code generator CubeMX, along with the free unrestricted GCC/Eclipse based IDE from CooCox; CoIDE.  It is intended to hold examples which progress from very simple to more complex and useful.  It begins with a simple Blink project to enable setting up and testing the development environment, adds USB console support, DMA-supported UART facility, SD-Card interface with DMA and FatFS integration.  The latter includes a user interface console with a reasonable set of file and system management commands (DOS-like).  This is then extended to support an external UART connection to an Espressif ESP-12 wifi module.
+All of these projects are intended as start points for useful system development based on inexpensive or free software and hardwarew platforms.
